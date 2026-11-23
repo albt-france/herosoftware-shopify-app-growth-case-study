@@ -1,0 +1,6 @@
+k,item,n
+1,raw installed events,10717
+2,webhook retry duplicates removed,1133
+3,quick re-installs (<24h) not counted as new,227
+4,"net installs (clean, one per merchant x app)",9357
+5,installs in a different month in UTC vs Berlin,4

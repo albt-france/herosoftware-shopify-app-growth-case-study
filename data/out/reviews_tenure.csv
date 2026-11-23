@@ -1,0 +1,7 @@
+tenure_bucket,reviews,share
+a) < 1 day,85,0.165
+b) 1-6 days,92,0.179
+c) 7-29 days,153,0.298
+d) 1-2 months,104,0.202
+e) 3-11 months,74,0.144
+f) 1 year +,6,0.012

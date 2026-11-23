@@ -1,0 +1,25 @@
+category,position,handle,name,rating,total_reviews,price_label,free_plan,is_herosoftware
+marketing-and-conversion-checkout-checkout-other,1,blockify-checkout-rules,Blockify Checkout Customizer,4.9,324,Free plan available,True,False
+marketing-and-conversion-checkout-checkout-other,2,smart-checkout-rules,SMART Checkout Upsells & Rules,5.0,872,Free,False,False
+marketing-and-conversion-checkout-checkout-other,3,shipfy-delivery-customization,Shipy ‑ Hide Shipping Rules,5.0,161,Free plan available,True,False
+marketing-and-conversion-checkout-checkout-other,4,checkout-blocks,Shopify Checkout Blocks,4.1,224,Free,False,False
+marketing-and-conversion-checkout-checkout-other,5,kip-customize-payment-methods,Kip: Sort Hide Payment Methods,4.9,120,Free plan available,True,False
+marketing-and-conversion-checkout-checkout-other,30,paymenthero,Payment Rules Hide PaymentHero,4.9,213,Free trial available,False,True
+marketing-and-conversion-upsell-and-bundles-upsell-and-cross-sell,1,smart-automatic-discounts,SMART Bundles App & Upsells,5.0,685,Free,False,False
+marketing-and-conversion-upsell-and-bundles-upsell-and-cross-sell,2,kaching-post-purchase-upsell,Kaching Post Purchase Upsell,5.0,456,Free plan available,True,False
+marketing-and-conversion-upsell-and-bundles-upsell-and-cross-sell,3,simple-bundles,Simple Bundles & Kits,4.9,849,Free plan available,True,False
+marketing-and-conversion-upsell-and-bundles-upsell-and-cross-sell,4,essential-cart-drawer,Essent Cart Drawer Cart Upsell,5.0,1252,Free plan available,True,False
+marketing-and-conversion-upsell-and-bundles-upsell-and-cross-sell,5,cart-upsell,Kaching CartDrawer Cart Upsell,5.0,1683,Free plan available,True,False
+marketing-and-conversion-upsell-and-bundles-upsell-and-cross-sell,66,post-purchase-upsell-hero,Post Purchase Upsell Hero,4.9,63,Free trial available,False,True
+orders-and-shipping-shipping-solutions-shipping,1,packlink-pro,Packlink PRO Shipping Platform,4.8,945,Free plan available,True,False
+orders-and-shipping-shipping-solutions-shipping,2,parcelpanel,CWILL Order Tracking,4.9,3233,Free plan available,True,False
+orders-and-shipping-shipping-solutions-shipping,3,globe,Globe Pickup Points & Shipping,5.0,161,Free trial available,False,False
+orders-and-shipping-shipping-solutions-shipping,4,17track,17TRACK Order Tracking,4.9,4629,Free plan available,True,False
+orders-and-shipping-shipping-solutions-shipping,5,pirate-ship,Pirate Ship: CheapARR Shipping,4.9,189,Free to install,False,False
+orders-and-shipping-shipping-solutions-shipping,7,addresshero,Address Validator AddressHero,4.9,235,Free to install,False,True
+store-management-security-fraud,1,blockify,"Blockify Fraud Filter, Blocker",4.9,1890,Free plan available,True,False
+store-management-security-fraud,2,easy-block-customer-ip-country,Securify: IP & Country Blocker,4.6,109,Free,False,False
+store-management-security-fraud,3,disputifier,Disputifier: Smart Chargebacks,4.6,140,Free to install,False,False
+store-management-security-fraud,4,mida-fraud-ip-blocker,"MIDA Fraud Filter, Bot Blocker",4.9,586,Free plan available,True,False
+store-management-security-fraud,5,chargeback-io,Chargeback: Auto Prevention,4.9,136,Free to install,False,False
+store-management-security-fraud,123,discounthero,Fraud Protection DiscountHero,5.0,3,Free trial available,False,True

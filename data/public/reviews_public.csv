@@ -1,0 +1,515 @@
+review_id,app,handle,review_date,date_is_edited,stars,country,tenure,reply_date,tenure_days,collected
+2313536,AddressHero,addresshero,2026-08-07,False,5,Germany,8 months using the app,2026-11-09,240,2026-11-23
+2296877,AddressHero,addresshero,2026-07-24,False,5,United States,About 1 month using the app,2026-11-09,30,2026-11-23
+2267994,AddressHero,addresshero,2026-07-01,False,5,Germany,About 2 hours using the app,2026-11-09,0,2026-11-23
+2250459,AddressHero,addresshero,2026-06-18,False,5,Spain,6 days using the app,2026-11-09,6,2026-11-23
+2239184,AddressHero,addresshero,2026-06-10,False,5,Germany,2 days using the app,2026-11-09,2,2026-11-23
+2214657,AddressHero,addresshero,2026-05-22,False,5,Czechia,5 months using the app,2026-11-09,150,2026-11-23
+2193399,AddressHero,addresshero,2026-05-07,False,5,Austria,6 days using the app,2026-11-09,6,2026-11-23
+2193200,AddressHero,addresshero,2026-05-06,False,3,New Zealand,About 1 month using the app,2026-11-09,30,2026-11-23
+2143421,AddressHero,addresshero,2026-03-31,False,5,Germany,About 3 hours using the app,2026-11-09,0,2026-11-23
+2141762,AddressHero,addresshero,2026-03-30,False,5,Germany,9 months using the app,2026-11-09,270,2026-11-23
+2119115,AddressHero,addresshero,2026-03-13,False,5,Germany,29 days using the app,2026-11-09,29,2026-11-23
+2087491,AddressHero,addresshero,2026-02-19,False,5,Germany,2 days using the app,2026-11-09,2,2026-11-23
+2086250,AddressHero,addresshero,2026-03-02,True,5,United States,6 months using the app,2026-11-09,180,2026-11-23
+2080104,AddressHero,addresshero,2026-02-13,False,5,Germany,6 months using the app,2026-11-09,180,2026-11-23
+2078395,AddressHero,addresshero,2026-02-12,False,5,Germany,About 20 hours using the app,2026-11-09,0,2026-11-23
+2062524,AddressHero,addresshero,2026-02-01,False,5,Italy,About 1 year using the app,2026-11-09,365,2026-11-23
+2056740,AddressHero,addresshero,2026-01-28,False,5,Singapore,30 days using the app,2026-11-09,30,2026-11-23
+2036884,AddressHero,addresshero,2026-01-14,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+2035352,AddressHero,addresshero,2026-01-13,False,5,Germany,About 19 hours using the app,2026-11-09,0,2026-11-23
+2032740,AddressHero,addresshero,2026-01-11,False,1,United States,About 1 month using the app,2026-11-09,30,2026-11-23
+2018264,AddressHero,addresshero,2025-12-29,False,5,Austria,29 days using the app,2026-11-09,29,2026-11-23
+2008185,AddressHero,addresshero,2025-12-19,False,5,Germany,5 months using the app,2026-11-09,150,2026-11-23
+2006663,AddressHero,addresshero,2025-12-18,False,5,Türkiye,2 days using the app,2026-11-09,2,2026-11-23
+2006629,AddressHero,addresshero,2025-12-18,False,5,Germany,About 1 hour using the app,2026-11-09,0,2026-11-23
+2004230,AddressHero,addresshero,2025-12-16,False,5,Germany,6 days using the app,2026-11-09,6,2026-11-23
+2004207,AddressHero,addresshero,2025-12-16,False,5,Germany,About 2 hours using the app,2026-11-09,0,2026-11-23
+2002556,AddressHero,addresshero,2025-12-15,False,5,Germany,19 days using the app,2026-11-09,19,2026-11-23
+1986466,AddressHero,addresshero,2025-12-03,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+1958557,AddressHero,addresshero,2025-11-14,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1944590,AddressHero,addresshero,2025-12-10,True,5,Germany,10 months using the app,2026-11-09,300,2026-11-23
+1924940,AddressHero,addresshero,2026-10-07,True,5,Germany,12 months using the app,2026-11-09,360,2026-11-23
+1920698,AddressHero,addresshero,2025-10-17,False,2,United States,About 20 hours using the app,2026-11-09,0,2026-11-23
+1866962,AddressHero,addresshero,2025-09-05,False,5,Germany,5 months using the app,2026-11-09,150,2026-11-23
+1820603,AddressHero,addresshero,2025-07-31,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1814018,AddressHero,addresshero,2025-07-26,False,5,Germany,2 months using the app,2026-11-09,60,2026-11-23
+1810592,AddressHero,addresshero,2025-07-24,False,1,Netherlands,About 2 months using the app,2026-11-09,60,2026-11-23
+1801692,AddressHero,addresshero,2025-07-16,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1789997,AddressHero,addresshero,2025-07-07,False,5,Germany,2 months using the app,2026-11-09,60,2026-11-23
+1788480,AddressHero,addresshero,2025-07-05,False,5,Germany,4 months using the app,2026-11-09,120,2026-11-23
+1787801,AddressHero,addresshero,2025-07-04,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+1786173,AddressHero,addresshero,2025-07-03,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+1784257,AddressHero,addresshero,2025-07-01,False,5,Germany,2 months using the app,2026-11-09,60,2026-11-23
+1784045,AddressHero,addresshero,2025-07-01,False,5,Germany,26 days using the app,2026-11-09,26,2026-11-23
+1783897,AddressHero,addresshero,2025-07-01,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1783855,AddressHero,addresshero,2025-07-01,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+1783747,AddressHero,addresshero,2025-07-01,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1783727,AddressHero,addresshero,2025-07-01,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1783698,AddressHero,addresshero,2025-07-01,False,5,Germany,14 days using the app,2026-11-09,14,2026-11-23
+1783063,AddressHero,addresshero,2025-06-30,False,5,Germany,2 months using the app,2026-11-09,60,2026-11-23
+1783057,AddressHero,addresshero,2025-06-30,False,5,Germany,2 months using the app,2026-11-09,60,2026-11-23
+1783043,AddressHero,addresshero,2025-06-30,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+1783028,AddressHero,addresshero,2025-06-30,False,5,Germany,6 months using the app,2026-11-09,180,2026-11-23
+1783015,AddressHero,addresshero,2025-06-30,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1782920,AddressHero,addresshero,2025-06-30,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1782913,AddressHero,addresshero,2025-06-30,False,5,Germany,5 months using the app,2026-11-09,150,2026-11-23
+1780933,AddressHero,addresshero,2025-06-28,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+1779822,AddressHero,addresshero,2025-06-27,False,5,Germany,16 days using the app,2026-11-09,16,2026-11-23
+1778768,AddressHero,addresshero,2025-06-26,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+1777782,AddressHero,addresshero,2025-06-25,False,5,Germany,13 days using the app,2026-11-09,13,2026-11-23
+1777593,AddressHero,addresshero,2025-06-25,False,5,Switzerland,About 1 month using the app,2026-11-09,30,2026-11-23
+1777487,AddressHero,addresshero,2025-06-25,False,5,Germany,3 days using the app,2026-11-09,3,2026-11-23
+1777329,AddressHero,addresshero,2025-06-25,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+1777241,AddressHero,addresshero,2025-06-25,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+1777226,AddressHero,addresshero,2025-06-25,False,5,Germany,30 days using the app,2026-11-09,30,2026-11-23
+1776172,AddressHero,addresshero,2025-06-24,False,5,Germany,28 days using the app,2026-11-09,28,2026-11-23
+1776157,AddressHero,addresshero,2025-06-24,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+1775891,AddressHero,addresshero,2025-06-24,False,5,Switzerland,4 months using the app,2026-11-09,120,2026-11-23
+1772285,AddressHero,addresshero,2025-06-20,False,5,Germany,4 months using the app,2026-11-09,120,2026-11-23
+1771039,AddressHero,addresshero,2025-06-19,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+1770699,AddressHero,addresshero,2025-06-19,False,4,Germany,21 days using the app,2026-11-09,21,2026-11-23
+1770375,AddressHero,addresshero,2025-06-18,False,5,Germany,2 months using the app,2026-11-09,60,2026-11-23
+1769963,AddressHero,addresshero,2025-06-18,False,5,Germany,19 days using the app,2026-11-09,19,2026-11-23
+1769939,AddressHero,addresshero,2025-06-18,False,5,Germany,2 months using the app,2026-11-09,60,2026-11-23
+1768586,AddressHero,addresshero,2025-06-17,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1767935,AddressHero,addresshero,2025-06-17,False,5,Austria,2 months using the app,2026-11-09,60,2026-11-23
+1767134,AddressHero,addresshero,2025-06-16,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+1766970,AddressHero,addresshero,2025-06-16,False,5,Spain,19 days using the app,2026-11-09,19,2026-11-23
+1766859,AddressHero,addresshero,2025-06-16,False,5,Germany,26 days using the app,2026-11-09,26,2026-11-23
+1766791,AddressHero,addresshero,2025-06-16,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+1766676,AddressHero,addresshero,2025-06-16,False,5,Germany,6 months using the app,2026-11-09,180,2026-11-23
+1766659,AddressHero,addresshero,2025-06-16,False,5,Germany,2 months using the app,2026-11-09,60,2026-11-23
+1766364,AddressHero,addresshero,2025-06-15,False,5,Netherlands,12 months using the app,2026-11-09,360,2026-11-23
+1766310,AddressHero,addresshero,2025-06-15,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+1766035,AddressHero,addresshero,2025-06-15,False,5,Italy,7 days using the app,2026-11-09,7,2026-11-23
+1765488,AddressHero,addresshero,2025-06-14,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1765265,AddressHero,addresshero,2025-06-14,False,5,Switzerland,26 days using the app,2026-11-09,26,2026-11-23
+1765150,AddressHero,addresshero,2025-06-14,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+1765069,AddressHero,addresshero,2025-06-14,False,5,Germany,11 months using the app,2026-11-09,330,2026-11-23
+1765066,AddressHero,addresshero,2025-06-14,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+1764689,AddressHero,addresshero,2025-06-13,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+1764648,AddressHero,addresshero,2025-06-13,False,5,Germany,4 months using the app,2026-11-09,120,2026-11-23
+1764633,AddressHero,addresshero,2025-06-13,False,5,Germany,7 days using the app,2026-11-09,7,2026-11-23
+1764617,AddressHero,addresshero,2025-06-13,False,5,Germany,2 days using the app,2026-11-09,2,2026-11-23
+1764592,AddressHero,addresshero,2025-06-13,False,5,Germany,7 months using the app,2026-11-09,210,2026-11-23
+1764302,AddressHero,addresshero,2025-06-13,False,5,Germany,22 days using the app,2026-11-09,22,2026-11-23
+1763680,AddressHero,addresshero,2025-06-12,False,5,Germany,17 days using the app,2026-11-09,17,2026-11-23
+1763621,AddressHero,addresshero,2025-06-12,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+1763088,AddressHero,addresshero,2025-06-12,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+1763019,AddressHero,addresshero,2025-06-12,False,5,Germany,4 months using the app,2026-11-09,120,2026-11-23
+1762982,AddressHero,addresshero,2025-06-12,False,5,Germany,2 months using the app,2026-11-09,60,2026-11-23
+1762972,AddressHero,addresshero,2025-06-12,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+1762847,AddressHero,addresshero,2025-06-12,False,5,Germany,6 days using the app,2026-11-09,6,2026-11-23
+1762467,AddressHero,addresshero,2025-06-11,False,5,Germany,4 months using the app,2026-11-09,120,2026-11-23
+1762286,AddressHero,addresshero,2025-06-11,False,5,Germany,About 1 year using the app,2026-11-09,365,2026-11-23
+1762278,AddressHero,addresshero,2025-06-11,False,5,Germany,4 months using the app,2026-11-09,120,2026-11-23
+1762250,AddressHero,addresshero,2025-06-11,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1762204,AddressHero,addresshero,2025-06-11,False,5,Germany,2 months using the app,2026-11-09,60,2026-11-23
+1762187,AddressHero,addresshero,2025-06-11,False,5,Germany,6 months using the app,2026-11-09,180,2026-11-23
+1762185,AddressHero,addresshero,2025-06-11,False,5,Austria,About 1 month using the app,2026-11-09,30,2026-11-23
+1762148,AddressHero,addresshero,2025-06-11,False,5,Germany,4 months using the app,2026-11-09,120,2026-11-23
+1762011,AddressHero,addresshero,2025-06-11,False,5,Austria,27 days using the app,2026-11-09,27,2026-11-23
+1761690,AddressHero,addresshero,2025-06-11,False,5,Germany,4 months using the app,2026-11-09,120,2026-11-23
+1760790,AddressHero,addresshero,2025-06-10,False,5,Hong Kong SAR,29 days using the app,2026-11-09,29,2026-11-23
+1760386,AddressHero,addresshero,2025-06-10,False,5,Germany,Over 1 year using the app,2026-11-09,365,2026-11-23
+1760363,AddressHero,addresshero,2025-06-10,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+1757649,AddressHero,addresshero,2025-06-07,False,5,Germany,27 days using the app,2026-11-09,27,2026-11-23
+1757031,AddressHero,addresshero,2025-06-06,False,5,Netherlands,15 days using the app,2026-11-09,15,2026-11-23
+1756834,AddressHero,addresshero,2025-06-06,False,5,Germany,4 months using the app,2026-11-09,120,2026-11-23
+1756705,AddressHero,addresshero,2025-06-06,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+1756693,AddressHero,addresshero,2025-06-06,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+1756559,AddressHero,addresshero,2025-06-06,False,5,Germany,21 days using the app,2026-11-09,21,2026-11-23
+1756558,AddressHero,addresshero,2025-06-06,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1756554,AddressHero,addresshero,2025-06-06,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+1756512,AddressHero,addresshero,2025-06-06,False,5,Austria,9 days using the app,2026-11-09,9,2026-11-23
+1756419,AddressHero,addresshero,2025-06-06,False,5,Germany,23 days using the app,2026-11-09,23,2026-11-23
+1756205,AddressHero,addresshero,2025-06-05,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+1756137,AddressHero,addresshero,2025-06-05,False,5,Germany,11 days using the app,2026-11-09,11,2026-11-23
+1756120,AddressHero,addresshero,2025-06-05,False,5,Germany,4 months using the app,2026-11-09,120,2026-11-23
+1756098,AddressHero,addresshero,2025-06-05,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1756007,AddressHero,addresshero,2025-06-05,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1755977,AddressHero,addresshero,2025-06-05,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1755851,AddressHero,addresshero,2025-06-05,False,5,Switzerland,3 months using the app,2026-11-09,90,2026-11-23
+1755842,AddressHero,addresshero,2025-06-05,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+1755840,AddressHero,addresshero,2025-06-05,False,5,Germany,13 days using the app,2026-11-09,13,2026-11-23
+1755809,AddressHero,addresshero,2025-06-05,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+1755758,AddressHero,addresshero,2025-06-05,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1755733,AddressHero,addresshero,2025-06-05,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1755729,AddressHero,addresshero,2025-06-05,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+1755723,AddressHero,addresshero,2025-06-05,False,5,Germany,6 months using the app,2026-11-09,180,2026-11-23
+1755715,AddressHero,addresshero,2025-06-07,True,5,Germany,27 days using the app,2026-11-09,27,2026-11-23
+1755714,AddressHero,addresshero,2025-06-05,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+1755712,AddressHero,addresshero,2025-06-05,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1755704,AddressHero,addresshero,2025-06-05,False,5,Estonia,3 months using the app,2026-11-09,90,2026-11-23
+1755702,AddressHero,addresshero,2025-06-05,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+1755700,AddressHero,addresshero,2025-06-05,False,5,Germany,4 months using the app,2026-11-09,120,2026-11-23
+1755695,AddressHero,addresshero,2025-06-05,False,5,Italy,11 months using the app,2026-11-09,330,2026-11-23
+1754893,AddressHero,addresshero,2025-06-04,False,5,Germany,7 days using the app,2026-11-09,7,2026-11-23
+1754833,AddressHero,addresshero,2025-06-04,False,5,Germany,About 14 hours using the app,2026-11-09,0,2026-11-23
+1754212,AddressHero,addresshero,2025-06-04,False,5,Germany,About 23 hours using the app,2026-11-09,0,2026-11-23
+1754187,AddressHero,addresshero,2025-06-04,False,5,Germany,25 days using the app,2026-11-09,25,2026-11-23
+1754178,AddressHero,addresshero,2025-06-04,False,5,Germany,6 days using the app,2026-11-09,6,2026-11-23
+1754172,AddressHero,addresshero,2025-06-04,False,5,Australia,16 days using the app,2026-11-09,16,2026-11-23
+1751200,AddressHero,addresshero,2025-06-02,False,5,Germany,19 days using the app,2026-11-09,19,2026-11-23
+1750621,AddressHero,addresshero,2025-06-01,False,5,Germany,17 days using the app,2026-11-09,17,2026-11-23
+1749961,AddressHero,addresshero,2025-05-31,False,5,Germany,18 days using the app,2026-11-09,18,2026-11-23
+1744758,AddressHero,addresshero,2025-05-27,False,5,Germany,8 days using the app,2026-11-09,8,2026-11-23
+1742702,AddressHero,addresshero,2025-05-25,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1740679,AddressHero,addresshero,2025-05-23,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+1740484,AddressHero,addresshero,2025-05-23,False,5,Germany,2 days using the app,2026-11-09,2,2026-11-23
+1739031,AddressHero,addresshero,2025-05-22,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+1736710,AddressHero,addresshero,2025-05-20,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+1736669,AddressHero,addresshero,2025-05-20,False,5,Germany,22 days using the app,2026-11-09,22,2026-11-23
+1735913,AddressHero,addresshero,2025-05-19,False,5,Germany,19 days using the app,2026-11-09,19,2026-11-23
+1735306,AddressHero,addresshero,2025-05-19,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1735061,AddressHero,addresshero,2025-05-19,False,5,Germany,About 15 hours using the app,2026-11-09,0,2026-11-23
+1734868,AddressHero,addresshero,2025-05-18,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1734641,AddressHero,addresshero,2025-05-18,False,5,Germany,4 days using the app,2026-11-09,4,2026-11-23
+1734419,AddressHero,addresshero,2025-05-18,False,5,Germany,25 days using the app,2026-11-09,25,2026-11-23
+1733958,AddressHero,addresshero,2025-05-17,False,5,Germany,11 days using the app,2026-11-09,11,2026-11-23
+1733292,AddressHero,addresshero,2025-05-16,False,5,United States,5 months using the app,2026-11-09,150,2026-11-23
+1731536,AddressHero,addresshero,2025-05-15,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+1730740,AddressHero,addresshero,2025-05-14,False,5,Austria,2 months using the app,2026-11-09,60,2026-11-23
+1730395,AddressHero,addresshero,2025-05-13,False,5,United States,14 days using the app,2026-11-09,14,2026-11-23
+1729406,AddressHero,addresshero,2025-05-12,False,5,Germany,1 minute using the app,2026-11-09,0,2026-11-23
+1729354,AddressHero,addresshero,2025-05-12,False,5,Germany,13 minutes using the app,2026-11-09,0,2026-11-23
+1729341,AddressHero,addresshero,2025-05-12,False,5,Germany,2 months using the app,2026-11-09,60,2026-11-23
+1729145,AddressHero,addresshero,2025-05-12,False,5,Germany,2 months using the app,2026-11-09,60,2026-11-23
+1711023,AddressHero,addresshero,2025-04-10,False,5,Germany,30 minutes using the app,2026-11-09,0,2026-11-23
+1695946,AddressHero,addresshero,2025-03-19,False,5,Germany,21 days using the app,2026-11-09,21,2026-11-23
+1694382,AddressHero,addresshero,2025-03-17,False,5,Germany,2 minutes using the app,2026-11-09,0,2026-11-23
+1694291,AddressHero,addresshero,2025-03-17,False,5,Germany,28 days using the app,2026-11-09,28,2026-11-23
+1694152,AddressHero,addresshero,2025-03-17,False,5,Germany,3 days using the app,2026-11-09,3,2026-11-23
+1693289,AddressHero,addresshero,2025-03-15,False,5,Germany,12 days using the app,2026-11-09,12,2026-11-23
+1693213,AddressHero,addresshero,2025-03-15,False,5,Germany,2 minutes using the app,2026-11-09,0,2026-11-23
+1692754,AddressHero,addresshero,2025-03-14,False,5,Germany,2 minutes using the app,2026-11-09,0,2026-11-23
+1692675,AddressHero,addresshero,2025-03-14,False,5,Germany,12 minutes using the app,2026-11-09,0,2026-11-23
+1692656,AddressHero,addresshero,2025-03-14,False,5,Germany,13 minutes using the app,2026-11-09,0,2026-11-23
+1692655,AddressHero,addresshero,2025-03-14,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+1692652,AddressHero,addresshero,2025-03-14,False,5,Germany,10 days using the app,2026-11-09,10,2026-11-23
+1692620,AddressHero,addresshero,2025-03-14,False,5,Germany,About 1 hour using the app,2026-11-09,0,2026-11-23
+1692505,AddressHero,addresshero,2025-03-14,False,5,Germany,4 days using the app,2026-11-09,4,2026-11-23
+1691984,AddressHero,addresshero,2025-03-13,False,5,Germany,12 days using the app,2026-11-09,12,2026-11-23
+1690297,AddressHero,addresshero,2025-03-11,False,5,Germany,1 minute using the app,2026-11-09,0,2026-11-23
+1689429,AddressHero,addresshero,2025-03-10,False,5,Germany,3 minutes using the app,2026-11-09,0,2026-11-23
+1688970,AddressHero,addresshero,2025-03-10,False,5,Germany,7 minutes using the app,2026-11-09,0,2026-11-23
+1684424,AddressHero,addresshero,2025-03-03,False,5,Germany,8 days using the app,2026-11-09,8,2026-11-23
+1684159,AddressHero,addresshero,2025-03-03,False,5,Germany,14 days using the app,2026-11-09,14,2026-11-23
+1683976,AddressHero,addresshero,2025-03-03,False,5,Germany,15 days using the app,2026-11-09,15,2026-11-23
+1683851,AddressHero,addresshero,2025-03-03,False,5,Germany,15 days using the app,2026-11-09,15,2026-11-23
+1683194,AddressHero,addresshero,2025-03-01,False,5,Germany,13 days using the app,2026-11-09,13,2026-11-23
+1683174,AddressHero,addresshero,2025-03-01,False,5,Germany,6 minutes using the app,2026-11-09,0,2026-11-23
+1683110,AddressHero,addresshero,2025-03-01,False,5,Germany,32 minutes using the app,2026-11-09,0,2026-11-23
+1682797,AddressHero,addresshero,2025-02-28,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+1680988,AddressHero,addresshero,2025-02-26,False,5,Germany,7 days using the app,2026-11-09,7,2026-11-23
+1680063,AddressHero,addresshero,2025-02-25,False,5,Germany,8 days using the app,2026-11-09,8,2026-11-23
+1679168,AddressHero,addresshero,2025-02-24,False,5,Austria,About 1 month using the app,2026-11-09,30,2026-11-23
+1679128,AddressHero,addresshero,2025-02-24,False,5,Germany,9 minutes using the app,2026-11-09,0,2026-11-23
+1678619,AddressHero,addresshero,2025-02-23,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1652902,AddressHero,addresshero,2025-01-16,False,5,Germany,About 1 year using the app,2026-11-09,365,2026-11-23
+1651680,AddressHero,addresshero,2025-01-14,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+1651457,AddressHero,addresshero,2025-01-14,False,5,Germany,About 1 year using the app,2026-11-09,365,2026-11-23
+1651401,AddressHero,addresshero,2025-01-14,False,5,Germany,29 days using the app,2026-11-09,29,2026-11-23
+1629790,AddressHero,addresshero,2024-12-09,False,5,Germany,21 days using the app,2026-11-09,21,2026-11-23
+1613458,AddressHero,addresshero,2024-11-25,False,5,Germany,7 days using the app,2026-11-09,7,2026-11-23
+1549343,AddressHero,addresshero,2024-10-01,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+1528023,AddressHero,addresshero,2024-09-11,False,5,Germany,12 months using the app,2026-11-09,360,2026-11-23
+1526732,AddressHero,addresshero,2024-09-10,False,5,Germany,6 days using the app,2026-11-09,6,2026-11-23
+1489059,AddressHero,addresshero,2024-08-05,False,5,Germany,4 days using the app,2026-11-09,4,2026-11-23
+1431958,AddressHero,addresshero,2024-06-10,False,5,Germany,6 months using the app,2026-11-09,180,2026-11-23
+1425602,AddressHero,addresshero,2024-06-04,False,5,Germany,7 months using the app,2026-11-09,210,2026-11-23
+1417531,AddressHero,addresshero,2024-05-27,False,5,Germany,11 months using the app,2024-09-11,330,2026-11-23
+1387537,AddressHero,addresshero,2024-04-26,False,5,Germany,5 months using the app,2026-11-09,150,2026-11-23
+1329804,AddressHero,addresshero,2024-03-01,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1320466,AddressHero,addresshero,2024-02-21,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+1248654,AddressHero,addresshero,2025-01-14,True,5,Germany,About 1 year using the app,2026-11-09,365,2026-11-23
+1238663,AddressHero,addresshero,2023-11-23,False,5,Germany,2 months using the app,2026-11-09,60,2026-11-23
+1236513,AddressHero,addresshero,2023-11-21,False,5,Germany,18 days using the app,2026-11-09,18,2026-11-23
+1175499,AddressHero,addresshero,2023-09-13,False,5,Germany,5 days using the app,2026-11-09,5,2026-11-23
+1165797,AddressHero,addresshero,2023-08-31,False,5,Germany,6 days using the app,2026-11-09,6,2026-11-23
+1157467,AddressHero,addresshero,2023-08-18,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+1145112,AddressHero,addresshero,2023-07-30,False,5,Germany,4 minutes using the app,2026-11-09,0,2026-11-23
+1128986,AddressHero,addresshero,2023-07-04,False,5,Germany,7 minutes using the app,2026-11-09,0,2026-11-23
+1079991,AddressHero,addresshero,2023-04-17,False,5,Germany,5 days using the app,2023-04-20,5,2026-11-23
+1072117,AddressHero,addresshero,2023-04-04,False,5,Germany,About 8 hours using the app,2023-04-04,0,2026-11-23
+1071758,AddressHero,addresshero,2023-04-04,False,5,Germany,2 minutes using the app,2023-04-04,0,2026-11-23
+2093664,PaymentHero,paymenthero,2026-02-24,False,5,Germany,About 1 month using the app,,30,2026-11-23
+2091577,PaymentHero,paymenthero,2026-02-22,False,5,Germany,3 days using the app,,3,2026-11-23
+2008291,PaymentHero,paymenthero,2025-12-19,False,5,Germany,41 minutes using the app,,0,2026-11-23
+2008186,PaymentHero,paymenthero,2025-12-19,False,5,Germany,5 months using the app,,150,2026-11-23
+2004231,PaymentHero,paymenthero,2025-12-16,False,5,Germany,6 days using the app,,6,2026-11-23
+1989522,PaymentHero,paymenthero,2025-12-05,False,5,Germany,4 months using the app,,120,2026-11-23
+1986469,PaymentHero,paymenthero,2025-12-03,False,5,Germany,30 days using the app,,30,2026-11-23
+1958565,PaymentHero,paymenthero,2025-11-14,False,5,Germany,3 months using the app,,90,2026-11-23
+1935627,PaymentHero,paymenthero,2025-10-29,False,5,Germany,About 6 hours using the app,,0,2026-11-23
+1935414,PaymentHero,paymenthero,2025-10-29,False,1,Germany,4 months using the app,,120,2026-11-23
+1929490,PaymentHero,paymenthero,2025-10-24,False,5,Austria,4 minutes using the app,,0,2026-11-23
+1873704,PaymentHero,paymenthero,2025-09-10,False,5,Austria,9 minutes using the app,,0,2026-11-23
+1853301,PaymentHero,paymenthero,2025-08-26,False,5,Germany,About 18 hours using the app,,0,2026-11-23
+1838782,PaymentHero,paymenthero,2025-08-14,False,5,Germany,33 minutes using the app,,0,2026-11-23
+1836658,PaymentHero,paymenthero,2025-08-13,False,5,Germany,14 days using the app,,14,2026-11-23
+1829984,PaymentHero,paymenthero,2025-08-07,False,5,Germany,3 months using the app,,90,2026-11-23
+1828076,PaymentHero,paymenthero,2025-08-06,False,5,Germany,2 days using the app,,2,2026-11-23
+1820602,PaymentHero,paymenthero,2025-07-31,False,5,Germany,About 14 hours using the app,,0,2026-11-23
+1814017,PaymentHero,paymenthero,2025-07-26,False,5,Germany,5 days using the app,,5,2026-11-23
+1812779,PaymentHero,paymenthero,2025-07-25,False,5,Germany,23 days using the app,,23,2026-11-23
+1809797,PaymentHero,paymenthero,2025-07-23,False,5,Germany,About 1 month using the app,,30,2026-11-23
+1802047,PaymentHero,paymenthero,2025-07-16,False,5,Germany,About 2 months using the app,,60,2026-11-23
+1788481,PaymentHero,paymenthero,2025-07-05,False,5,Germany,23 minutes using the app,,0,2026-11-23
+1785465,PaymentHero,paymenthero,2025-07-02,False,5,Switzerland,About 2 months using the app,,60,2026-11-23
+1785079,PaymentHero,paymenthero,2025-07-02,False,5,Switzerland,About 1 month using the app,,30,2026-11-23
+1784890,PaymentHero,paymenthero,2025-07-02,False,5,Switzerland,About 1 month using the app,,30,2026-11-23
+1784196,PaymentHero,paymenthero,2025-07-01,False,5,Germany,About 2 months using the app,,60,2026-11-23
+1783962,PaymentHero,paymenthero,2025-07-01,False,5,Germany,6 days using the app,,6,2026-11-23
+1783713,PaymentHero,paymenthero,2025-07-01,False,5,Germany,About 2 months using the app,,60,2026-11-23
+1783551,PaymentHero,paymenthero,2025-07-01,False,5,Austria,About 1 month using the app,,30,2026-11-23
+1783177,PaymentHero,paymenthero,2025-06-30,False,5,Germany,14 days using the app,,14,2026-11-23
+1782869,PaymentHero,paymenthero,2025-06-30,False,5,Germany,27 days using the app,,27,2026-11-23
+1782847,PaymentHero,paymenthero,2025-06-30,False,5,Germany,17 days using the app,,17,2026-11-23
+1779430,PaymentHero,paymenthero,2025-06-26,False,5,Germany,18 days using the app,,18,2026-11-23
+1777595,PaymentHero,paymenthero,2025-06-25,False,5,Switzerland,2 days using the app,,2,2026-11-23
+1776355,PaymentHero,paymenthero,2025-06-24,False,5,Cyprus,6 days using the app,,6,2026-11-23
+1776270,PaymentHero,paymenthero,2025-06-24,False,5,Germany,1 day using the app,,1,2026-11-23
+1776101,PaymentHero,paymenthero,2025-06-24,False,5,Germany,11 days using the app,,11,2026-11-23
+1775206,PaymentHero,paymenthero,2025-06-23,False,5,Germany,About 1 month using the app,,30,2026-11-23
+1774857,PaymentHero,paymenthero,2025-06-23,False,5,Germany,28 days using the app,,28,2026-11-23
+1772825,PaymentHero,paymenthero,2025-06-20,False,5,Germany,10 days using the app,,10,2026-11-23
+1772717,PaymentHero,paymenthero,2025-06-20,False,5,Germany,7 days using the app,,7,2026-11-23
+1772239,PaymentHero,paymenthero,2025-06-20,False,5,Germany,27 days using the app,,27,2026-11-23
+1771521,PaymentHero,paymenthero,2025-06-19,False,5,Germany,3 days using the app,,3,2026-11-23
+1771218,PaymentHero,paymenthero,2025-06-19,False,1,Germany,About 1 month using the app,,30,2026-11-23
+1771132,PaymentHero,paymenthero,2025-06-19,False,5,Germany,About 1 month using the app,,30,2026-11-23
+1770946,PaymentHero,paymenthero,2025-06-19,False,5,Germany,About 1 month using the app,,30,2026-11-23
+1770928,PaymentHero,paymenthero,2025-06-19,False,5,Germany,9 days using the app,,9,2026-11-23
+1770774,PaymentHero,paymenthero,2025-06-19,False,5,Germany,About 1 month using the app,,30,2026-11-23
+1770696,PaymentHero,paymenthero,2025-06-19,False,2,Germany,17 days using the app,,17,2026-11-23
+1770398,PaymentHero,paymenthero,2025-06-18,False,5,Germany,About 1 month using the app,,30,2026-11-23
+1770248,PaymentHero,paymenthero,2025-06-18,False,5,Germany,25 days using the app,,25,2026-11-23
+1769969,PaymentHero,paymenthero,2025-06-18,False,5,Switzerland,21 days using the app,,21,2026-11-23
+1769955,PaymentHero,paymenthero,2025-06-18,False,5,Germany,27 days using the app,,27,2026-11-23
+1769935,PaymentHero,paymenthero,2025-06-18,False,5,Germany,About 1 month using the app,,30,2026-11-23
+1769830,PaymentHero,paymenthero,2025-06-18,False,5,Germany,7 days using the app,,7,2026-11-23
+1769511,PaymentHero,paymenthero,2025-06-18,False,5,Germany,13 days using the app,,13,2026-11-23
+1769276,PaymentHero,paymenthero,2025-06-18,False,5,Germany,16 days using the app,,16,2026-11-23
+1768961,PaymentHero,paymenthero,2025-06-17,False,5,Germany,18 days using the app,,18,2026-11-23
+1768864,PaymentHero,paymenthero,2025-06-17,False,5,Germany,8 days using the app,,8,2026-11-23
+1768759,PaymentHero,paymenthero,2025-06-17,False,5,Austria,8 days using the app,,8,2026-11-23
+1768736,PaymentHero,paymenthero,2025-06-17,False,5,Germany,About 1 month using the app,,30,2026-11-23
+1768413,PaymentHero,paymenthero,2025-06-17,False,5,Germany,14 days using the app,,14,2026-11-23
+1768386,PaymentHero,paymenthero,2025-06-17,False,5,Germany,About 8 hours using the app,,0,2026-11-23
+1768371,PaymentHero,paymenthero,2025-06-17,False,5,Germany,About 15 hours using the app,,0,2026-11-23
+1768285,PaymentHero,paymenthero,2025-06-17,False,5,Germany,5 days using the app,,5,2026-11-23
+1768279,PaymentHero,paymenthero,2025-06-17,False,5,Germany,14 days using the app,,14,2026-11-23
+1768260,PaymentHero,paymenthero,2025-06-17,False,5,Germany,8 days using the app,,8,2026-11-23
+1768251,PaymentHero,paymenthero,2025-06-17,False,5,Austria,7 days using the app,,7,2026-11-23
+1768248,PaymentHero,paymenthero,2025-06-17,False,5,Germany,11 days using the app,,11,2026-11-23
+1768230,PaymentHero,paymenthero,2025-06-17,False,5,Germany,About 2 hours using the app,,0,2026-11-23
+1763389,PaymentHero,paymenthero,2025-06-12,False,5,Germany,About 1 month using the app,,30,2026-11-23
+1762907,PaymentHero,paymenthero,2025-06-12,False,5,Germany,19 minutes using the app,,0,2026-11-23
+1758578,PaymentHero,paymenthero,2025-06-08,False,5,Switzerland,20 days using the app,,20,2026-11-23
+1757763,PaymentHero,paymenthero,2025-06-07,False,5,Germany,16 days using the app,,16,2026-11-23
+1755358,PaymentHero,paymenthero,2025-06-05,False,5,Cyprus,5 minutes using the app,,0,2026-11-23
+1754383,PaymentHero,paymenthero,2025-06-04,False,5,Germany,21 days using the app,,21,2026-11-23
+1753869,PaymentHero,paymenthero,2025-06-04,False,5,Germany,13 days using the app,,13,2026-11-23
+1752490,PaymentHero,paymenthero,2025-06-03,False,5,Germany,13 days using the app,,13,2026-11-23
+1752146,PaymentHero,paymenthero,2025-06-02,False,5,Germany,5 days using the app,,5,2026-11-23
+1752039,PaymentHero,paymenthero,2025-06-02,False,5,Switzerland,21 days using the app,,21,2026-11-23
+1751662,PaymentHero,paymenthero,2025-06-02,False,5,Germany,19 days using the app,,19,2026-11-23
+1751622,PaymentHero,paymenthero,2025-06-02,False,5,Germany,3 days using the app,,3,2026-11-23
+1751403,PaymentHero,paymenthero,2025-06-02,False,5,Austria,2 days using the app,,2,2026-11-23
+1751381,PaymentHero,paymenthero,2025-06-02,False,5,Germany,18 days using the app,,18,2026-11-23
+1751377,PaymentHero,paymenthero,2025-06-02,False,5,Germany,1 day using the app,,1,2026-11-23
+1751359,PaymentHero,paymenthero,2025-06-02,False,5,Switzerland,4 days using the app,,4,2026-11-23
+1751296,PaymentHero,paymenthero,2025-06-02,False,5,Germany,19 days using the app,,19,2026-11-23
+1750620,PaymentHero,paymenthero,2025-06-01,False,5,Germany,6 minutes using the app,,0,2026-11-23
+1750269,PaymentHero,paymenthero,2025-05-31,False,5,Germany,7 days using the app,,7,2026-11-23
+1749963,PaymentHero,paymenthero,2025-05-31,False,5,Germany,23 minutes using the app,,0,2026-11-23
+1749608,PaymentHero,paymenthero,2025-05-30,False,5,Germany,1 day using the app,,1,2026-11-23
+1749351,PaymentHero,paymenthero,2025-05-30,False,5,Germany,11 days using the app,,11,2026-11-23
+1747409,PaymentHero,paymenthero,2025-05-29,False,5,Germany,13 days using the app,,13,2026-11-23
+1746413,PaymentHero,paymenthero,2025-05-28,False,5,Austria,15 minutes using the app,,0,2026-11-23
+1746250,PaymentHero,paymenthero,2025-05-28,False,5,Germany,About 2 hours using the app,,0,2026-11-23
+1746241,PaymentHero,paymenthero,2025-05-28,False,5,Germany,16 days using the app,,16,2026-11-23
+1746111,PaymentHero,paymenthero,2025-05-28,False,5,Germany,2 minutes using the app,,0,2026-11-23
+1744886,PaymentHero,paymenthero,2025-05-27,False,5,Cyprus,11 days using the app,,11,2026-11-23
+1744812,PaymentHero,paymenthero,2025-05-27,False,5,Germany,12 days using the app,,12,2026-11-23
+1744800,PaymentHero,paymenthero,2025-05-27,False,5,Germany,1 day using the app,,1,2026-11-23
+1744778,PaymentHero,paymenthero,2025-05-27,False,5,Germany,12 days using the app,,12,2026-11-23
+1744771,PaymentHero,paymenthero,2025-05-27,False,5,Germany,20 days using the app,,20,2026-11-23
+1744762,PaymentHero,paymenthero,2025-05-27,False,5,Italy,8 days using the app,,8,2026-11-23
+1744757,PaymentHero,paymenthero,2025-05-27,False,5,Germany,1 day using the app,,1,2026-11-23
+1744738,PaymentHero,paymenthero,2025-05-27,False,5,Germany,12 days using the app,,12,2026-11-23
+1744720,PaymentHero,paymenthero,2025-05-27,False,5,Germany,4 days using the app,,4,2026-11-23
+1744715,PaymentHero,paymenthero,2025-06-22,True,5,Germany,30 days using the app,,30,2026-11-23
+1744713,PaymentHero,paymenthero,2025-05-27,False,5,Germany,20 days using the app,,20,2026-11-23
+1744710,PaymentHero,paymenthero,2025-05-27,False,5,Germany,6 days using the app,,6,2026-11-23
+1744699,PaymentHero,paymenthero,2025-05-27,False,5,Germany,1 day using the app,,1,2026-11-23
+1744038,PaymentHero,paymenthero,2025-05-26,False,5,Germany,16 days using the app,,16,2026-11-23
+1743432,PaymentHero,paymenthero,2025-05-26,False,5,Germany,12 days using the app,,12,2026-11-23
+1743415,PaymentHero,paymenthero,2025-05-26,False,5,Germany,10 days using the app,,10,2026-11-23
+1743250,PaymentHero,paymenthero,2025-05-26,False,5,Austria,11 days using the app,,11,2026-11-23
+1743207,PaymentHero,paymenthero,2025-05-26,False,5,Austria,11 days using the app,,11,2026-11-23
+1742705,PaymentHero,paymenthero,2025-05-25,False,5,Switzerland,10 minutes using the app,,0,2026-11-23
+1742699,PaymentHero,paymenthero,2025-05-25,False,5,Germany,3 minutes using the app,,0,2026-11-23
+1742043,PaymentHero,paymenthero,2025-06-22,True,5,Germany,29 days using the app,,29,2026-11-23
+1742042,PaymentHero,paymenthero,2025-05-24,False,5,Germany,13 minutes using the app,,0,2026-11-23
+1741768,PaymentHero,paymenthero,2025-05-24,False,5,Germany,4 days using the app,,4,2026-11-23
+1740942,PaymentHero,paymenthero,2025-06-22,True,5,Austria,About 1 month using the app,,30,2026-11-23
+1740835,PaymentHero,paymenthero,2025-05-23,False,5,Austria,About 23 hours using the app,,0,2026-11-23
+1740825,PaymentHero,paymenthero,2025-05-23,False,5,Germany,3 days using the app,,3,2026-11-23
+1740808,PaymentHero,paymenthero,2025-05-23,False,5,Germany,9 days using the app,,9,2026-11-23
+1740741,PaymentHero,paymenthero,2025-05-23,False,5,Germany,6 days using the app,,6,2026-11-23
+1740709,PaymentHero,paymenthero,2025-05-23,False,5,Germany,4 days using the app,,4,2026-11-23
+1740694,PaymentHero,paymenthero,2025-05-23,False,5,Italy,7 days using the app,,7,2026-11-23
+1740489,PaymentHero,paymenthero,2025-05-23,False,5,Germany,5 days using the app,,5,2026-11-23
+1740461,PaymentHero,paymenthero,2025-05-23,False,5,Germany,7 days using the app,,7,2026-11-23
+1739954,PaymentHero,paymenthero,2025-05-22,False,5,Germany,6 days using the app,,6,2026-11-23
+1739913,PaymentHero,paymenthero,2025-05-22,False,5,Germany,7 days using the app,,7,2026-11-23
+1739894,PaymentHero,paymenthero,2025-05-22,False,5,Switzerland,7 days using the app,,7,2026-11-23
+1739874,PaymentHero,paymenthero,2025-05-22,False,5,Germany,6 days using the app,,6,2026-11-23
+1739870,PaymentHero,paymenthero,2025-05-22,False,5,Germany,6 days using the app,,6,2026-11-23
+1739852,PaymentHero,paymenthero,2025-05-22,False,5,Germany,6 days using the app,,6,2026-11-23
+1739754,PaymentHero,paymenthero,2025-05-22,False,5,Germany,About 23 hours using the app,,0,2026-11-23
+1739750,PaymentHero,paymenthero,2025-05-22,False,5,Germany,8 days using the app,,8,2026-11-23
+1739613,PaymentHero,paymenthero,2025-05-22,False,5,Germany,4 days using the app,,4,2026-11-23
+1739609,PaymentHero,paymenthero,2025-05-22,False,5,Germany,14 days using the app,,14,2026-11-23
+1739600,PaymentHero,paymenthero,2025-05-22,False,5,Germany,6 days using the app,,6,2026-11-23
+1739529,PaymentHero,paymenthero,2025-05-22,False,5,Germany,14 days using the app,,14,2026-11-23
+1739527,PaymentHero,paymenthero,2025-05-22,False,5,Germany,7 days using the app,,7,2026-11-23
+1739520,PaymentHero,paymenthero,2025-05-22,False,5,Germany,About 23 hours using the app,,0,2026-11-23
+1739517,PaymentHero,paymenthero,2025-05-22,False,5,Germany,About 4 hours using the app,,0,2026-11-23
+1739500,PaymentHero,paymenthero,2025-05-22,False,5,Germany,7 days using the app,,7,2026-11-23
+1739490,PaymentHero,paymenthero,2025-05-22,False,5,Germany,8 days using the app,,8,2026-11-23
+1739142,PaymentHero,paymenthero,2025-05-22,False,5,Germany,12 days using the app,,12,2026-11-23
+1739032,PaymentHero,paymenthero,2025-05-22,False,5,Germany,13 minutes using the app,,0,2026-11-23
+1738968,PaymentHero,paymenthero,2025-05-22,False,5,Germany,10 days using the app,,10,2026-11-23
+1738121,PaymentHero,paymenthero,2025-05-21,False,5,Germany,About 1 hour using the app,,0,2026-11-23
+1737852,PaymentHero,paymenthero,2025-05-21,False,5,Germany,2 days using the app,,2,2026-11-23
+1737814,PaymentHero,paymenthero,2025-05-21,False,5,Germany,1 day using the app,,1,2026-11-23
+1737302,PaymentHero,paymenthero,2025-05-20,False,5,Malta,2 days using the app,,2,2026-11-23
+1736864,PaymentHero,paymenthero,2025-05-20,False,5,Austria,3 days using the app,,3,2026-11-23
+1736850,PaymentHero,paymenthero,2025-05-20,False,5,Germany,3 days using the app,,3,2026-11-23
+1736813,PaymentHero,paymenthero,2025-05-20,False,5,Germany,3 days using the app,,3,2026-11-23
+1736713,PaymentHero,paymenthero,2025-05-20,False,5,Germany,4 days using the app,,4,2026-11-23
+1736696,PaymentHero,paymenthero,2025-05-20,False,5,Germany,3 days using the app,,3,2026-11-23
+1736688,PaymentHero,paymenthero,2025-05-20,False,5,Germany,1 day using the app,,1,2026-11-23
+1736670,PaymentHero,paymenthero,2025-05-20,False,5,Germany,1 minute using the app,,0,2026-11-23
+1736608,PaymentHero,paymenthero,2025-05-20,False,5,Germany,1 day using the app,,1,2026-11-23
+1736584,PaymentHero,paymenthero,2025-05-20,False,5,Germany,4 days using the app,,4,2026-11-23
+1736571,PaymentHero,paymenthero,2025-05-20,False,5,Germany,4 days using the app,,4,2026-11-23
+1736543,PaymentHero,paymenthero,2025-05-20,False,5,Germany,2 days using the app,,2,2026-11-23
+1736537,PaymentHero,paymenthero,2025-05-20,False,5,Germany,About 16 hours using the app,,0,2026-11-23
+1736496,PaymentHero,paymenthero,2025-05-20,False,5,Germany,2 days using the app,,2,2026-11-23
+1736412,PaymentHero,paymenthero,2025-05-20,False,5,Germany,22 minutes using the app,,0,2026-11-23
+1736347,PaymentHero,paymenthero,2025-05-20,False,5,Germany,12 days using the app,,12,2026-11-23
+1735950,PaymentHero,paymenthero,2025-05-19,False,5,Germany,9 days using the app,,9,2026-11-23
+1735895,PaymentHero,paymenthero,2025-05-19,False,5,Germany,3 minutes using the app,,0,2026-11-23
+1735802,PaymentHero,paymenthero,2025-05-19,False,5,Germany,33 minutes using the app,,0,2026-11-23
+1735256,PaymentHero,paymenthero,2025-05-19,False,5,Germany,2 minutes using the app,,0,2026-11-23
+1735062,PaymentHero,paymenthero,2025-05-19,False,5,Germany,About 22 hours using the app,,0,2026-11-23
+1734869,PaymentHero,paymenthero,2025-05-18,False,5,Germany,Less than a minute using the app,,0,2026-11-23
+1734712,PaymentHero,paymenthero,2025-05-18,False,5,Germany,1 day using the app,,1,2026-11-23
+1734653,PaymentHero,paymenthero,2025-05-18,False,5,Germany,11 days using the app,,11,2026-11-23
+1734643,PaymentHero,paymenthero,2025-05-18,False,5,Germany,3 minutes using the app,,0,2026-11-23
+1734612,PaymentHero,paymenthero,2025-05-18,False,5,Germany,7 days using the app,,7,2026-11-23
+1734520,PaymentHero,paymenthero,2025-05-18,False,5,Germany,About 3 hours using the app,,0,2026-11-23
+1734439,PaymentHero,paymenthero,2025-05-18,False,5,Germany,2 days using the app,,2,2026-11-23
+1734420,PaymentHero,paymenthero,2025-05-18,False,5,Germany,11 minutes using the app,,0,2026-11-23
+1733972,PaymentHero,paymenthero,2025-05-17,False,5,Germany,8 minutes using the app,,0,2026-11-23
+1733189,PaymentHero,paymenthero,2025-05-16,False,5,Germany,3 days using the app,,3,2026-11-23
+1732656,PaymentHero,paymenthero,2025-05-16,False,5,Germany,9 days using the app,,9,2026-11-23
+1731776,PaymentHero,paymenthero,2025-05-15,False,5,Italy,7 days using the app,,7,2026-11-23
+1731580,PaymentHero,paymenthero,2025-05-15,False,5,Germany,4 days using the app,,4,2026-11-23
+1731574,PaymentHero,paymenthero,2025-05-15,False,5,Switzerland,About 4 hours using the app,,0,2026-11-23
+1731534,PaymentHero,paymenthero,2025-05-15,False,5,Germany,About 22 hours using the app,,0,2026-11-23
+1731477,PaymentHero,paymenthero,2025-05-15,False,5,Germany,About 17 hours using the app,,0,2026-11-23
+1730977,PaymentHero,paymenthero,2025-05-14,False,5,Germany,1 day using the app,,1,2026-11-23
+1730880,PaymentHero,paymenthero,2025-05-14,False,5,Germany,1 day using the app,,1,2026-11-23
+1730866,PaymentHero,paymenthero,2025-05-14,False,5,Germany,2 days using the app,,2,2026-11-23
+1730812,PaymentHero,paymenthero,2025-05-14,False,5,Germany,7 days using the app,,7,2026-11-23
+1730795,PaymentHero,paymenthero,2025-05-14,False,5,Germany,7 days using the app,,7,2026-11-23
+1730768,PaymentHero,paymenthero,2025-05-14,False,5,Germany,5 days using the app,,5,2026-11-23
+1730739,PaymentHero,paymenthero,2025-05-14,False,5,Austria,2 days using the app,,2,2026-11-23
+1730732,PaymentHero,paymenthero,2025-05-14,False,5,Germany,8 days using the app,,8,2026-11-23
+1730713,PaymentHero,paymenthero,2025-05-14,False,5,Germany,6 days using the app,,6,2026-11-23
+1730711,PaymentHero,paymenthero,2025-05-14,False,5,Germany,5 days using the app,,5,2026-11-23
+1730078,PaymentHero,paymenthero,2025-05-13,False,5,Germany,5 days using the app,,5,2026-11-23
+1730068,PaymentHero,paymenthero,2025-05-13,False,5,Germany,5 days using the app,,5,2026-11-23
+1730059,PaymentHero,paymenthero,2025-05-13,False,5,Germany,3 days using the app,,3,2026-11-23
+1729961,PaymentHero,paymenthero,2025-05-13,False,5,Germany,3 minutes using the app,,0,2026-11-23
+1729339,PaymentHero,paymenthero,2025-05-12,False,5,Germany,5 days using the app,,5,2026-11-23
+1729141,PaymentHero,paymenthero,2025-05-12,False,5,Germany,4 days using the app,,4,2026-11-23
+1728142,PaymentHero,paymenthero,2025-05-09,False,5,Germany,32 minutes using the app,,0,2026-11-23
+1727940,PaymentHero,paymenthero,2025-05-09,False,5,Germany,About 16 hours using the app,,0,2026-11-23
+1727602,PaymentHero,paymenthero,2025-05-08,False,5,Germany,16 minutes using the app,,0,2026-11-23
+1727535,PaymentHero,paymenthero,2025-05-08,False,5,Germany,12 minutes using the app,,0,2026-11-23
+1727517,PaymentHero,paymenthero,2025-05-08,False,5,Germany,1 day using the app,,1,2026-11-23
+1727317,PaymentHero,paymenthero,2025-05-08,False,5,Germany,About 10 hours using the app,,0,2026-11-23
+1726342,PaymentHero,paymenthero,2025-05-06,False,5,Germany,About 23 hours using the app,,0,2026-11-23
+2267615,DiscountHero,discounthero,2026-07-01,False,5,Germany,29 days using the app,,29,2026-11-23
+1961167,DiscountHero,discounthero,2025-11-16,False,5,Germany,About 2 months using the app,,60,2026-11-23
+1917236,DiscountHero,discounthero,2025-10-15,False,5,Germany,15 days using the app,,15,2026-11-23
+2425639,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-11-11,False,5,Hong Kong SAR,22 days using the app,,22,2026-11-23
+2418764,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-11-04,False,5,Hong Kong SAR,24 days using the app,2026-11-09,24,2026-11-23
+2418758,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-11-04,False,5,Hong Kong SAR,24 days using the app,2026-11-09,24,2026-11-23
+2417218,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-11-03,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+2417003,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-11-03,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+2413373,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-10-30,False,5,Germany,3 days using the app,2026-11-09,3,2026-11-23
+2412059,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-10-29,False,5,Austria,21 days using the app,2026-11-09,21,2026-11-23
+2412057,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-10-29,False,5,Austria,22 days using the app,2026-11-09,22,2026-11-23
+2411898,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-10-29,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+2410558,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-10-28,False,5,Austria,3 months using the app,2026-11-09,90,2026-11-23
+2409968,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-10-27,False,5,Austria,3 months using the app,2026-11-09,90,2026-11-23
+2409773,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-10-27,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+2409640,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-10-27,False,5,Germany,4 months using the app,2026-11-09,120,2026-11-23
+2409636,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-10-27,False,5,Germany,3 months using the app,2026-11-09,90,2026-11-23
+2409389,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-10-27,False,5,Germany,4 months using the app,2026-11-09,120,2026-11-23
+2409319,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-10-27,False,5,Germany,2 months using the app,2026-11-09,60,2026-11-23
+2405682,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-10-23,False,5,Germany,5 days using the app,2026-11-09,5,2026-11-23
+2387208,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-10-07,False,5,United Arab Emirates,2 days using the app,2026-11-09,2,2026-11-23
+2387185,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-10-07,False,5,Germany,About 1 hour using the app,2026-11-09,0,2026-11-23
+2386939,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-10-07,False,5,Germany,13 days using the app,2026-11-09,13,2026-11-23
+2384323,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-10-05,False,5,Germany,2 months using the app,2026-11-09,60,2026-11-23
+2380698,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-10-01,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+2376548,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-09-28,False,5,Austria,14 days using the app,2026-11-09,14,2026-11-23
+2369466,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-09-22,False,5,Germany,2 months using the app,2026-11-09,60,2026-11-23
+2369328,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-09-22,False,5,Germany,2 months using the app,2026-11-09,60,2026-11-23
+2369272,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-09-30,True,1,Cyprus,3 months using the app,2026-11-09,90,2026-11-23
+2369208,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-09-22,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+2364536,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-09-17,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+2358779,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-09-13,False,5,Austria,About 1 month using the app,2026-11-09,30,2026-11-23
+2353681,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-09-09,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+2352431,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-09-08,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+2350820,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-09-07,False,5,Germany,28 days using the app,2026-11-09,28,2026-11-23
+2350753,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-09-07,False,5,Germany,About 2 months using the app,2026-11-09,60,2026-11-23
+2349723,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-09-05,False,5,Germany,10 days using the app,2026-11-09,10,2026-11-23
+2349483,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-09-05,False,5,Germany,22 days using the app,2026-11-09,22,2026-11-23
+2348836,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-09-04,False,5,Germany,9 days using the app,2026-11-09,9,2026-11-23
+2347344,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-09-03,False,5,Germany,28 days using the app,2026-11-09,28,2026-11-23
+2342766,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-08-31,False,5,Germany,3 days using the app,2026-11-09,3,2026-11-23
+2339350,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-08-28,False,5,Germany,15 days using the app,2026-11-09,15,2026-11-23
+2328487,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-08-19,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+2326910,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-08-18,False,5,Germany,26 days using the app,2026-11-09,26,2026-11-23
+2326765,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-08-18,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+2326736,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-08-18,False,5,Italy,About 1 month using the app,2026-11-09,30,2026-11-23
+2326450,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-08-18,False,5,Germany,About 1 month using the app,2026-11-09,30,2026-11-23
+2324149,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-08-16,False,5,Germany,9 days using the app,2026-11-09,9,2026-11-23
+2322391,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-08-17,False,5,Germany,6 days using the app,2026-11-09,6,2026-11-23
+2321697,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-08-13,False,5,Germany,10 days using the app,2026-11-09,10,2026-11-23
+2321496,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-08-13,False,5,Germany,10 days using the app,2026-11-09,10,2026-11-23
+2321290,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-08-13,False,5,Germany,7 days using the app,2026-11-09,7,2026-11-23
+2316627,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-08-10,False,5,Germany,3 days using the app,2026-11-09,3,2026-11-23
+2313540,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-08-07,False,5,Germany,4 days using the app,2026-11-09,4,2026-11-23
+2313526,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-08-07,False,5,Germany,1 day using the app,2026-11-09,1,2026-11-23
+2313121,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-08-06,False,5,Austria,About 2 hours using the app,2026-11-09,0,2026-11-23
+2312973,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-08-06,False,5,Germany,24 days using the app,2026-11-09,24,2026-11-23
+2312702,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-08-06,False,5,Germany,1 day using the app,2026-11-09,1,2026-11-23
+2312656,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-08-06,False,5,Germany,1 day using the app,2026-11-09,1,2026-11-23
+2312643,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-08-06,False,5,Germany,About 16 hours using the app,2026-11-09,0,2026-11-23
+2309532,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-08-04,False,5,Germany,20 days using the app,2026-11-09,20,2026-11-23
+2309270,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-08-04,False,5,Germany,15 days using the app,2026-11-09,15,2026-11-23
+2283704,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-07-14,False,5,Germany,About 2 hours using the app,2026-11-09,0,2026-11-23
+2283488,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-07-14,False,5,Germany,About 1 hour using the app,2026-11-09,0,2026-11-23
+2283221,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-07-14,False,5,Germany,5 minutes using the app,2026-11-09,0,2026-11-23
+2282273,Post Purchase Upsell Hero,post-purchase-upsell-hero,2026-07-13,False,5,Germany,11 minutes using the app,2026-11-09,0,2026-11-23

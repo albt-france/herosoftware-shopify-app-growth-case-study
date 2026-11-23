@@ -1,0 +1,12 @@
+.env
+data/raw/
+data/_hidden_truth.csv
+data/collect_log.txt
+report/_report.html
+report/_print.pdf
+__pycache__/
+.ipynb_checkpoints/
+DECISIONS.md
+HANDOFF*.md
+*.pyc
+_prive/

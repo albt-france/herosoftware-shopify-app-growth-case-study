@@ -1,0 +1,12 @@
+test,passed
+no duplicate merchant x app after cleaning,True
+no retry duplicate left in stg_events,True
+"514 public reviews, unique ids",True
+reviews = sum of listing ratingCount,True
+avg stars per app within 0.05 of listing,True
+public review table has no shop name / text column,True
+no published country with fewer than 5 reviews,True
+installs >= trials >= paying (every channel),True
+funnel views >= installs (every app x surface),True
+24 experiments,True
+clean installs never above raw installed events,True
